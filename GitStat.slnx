@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="GitStat.Common/GitStat.Common.csproj" />
+  <Project Path="GitStat.Console/GitStat.Console.csproj" />
+</Solution>
